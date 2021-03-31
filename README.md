@@ -1,6 +1,7 @@
 # navigation_drawer
 
 A new Flutter project.
+- Flutter : 1.22.6
 
 ## Getting Started
 
